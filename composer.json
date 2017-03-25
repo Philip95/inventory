@@ -1,0 +1,10 @@
+{
+ "name": "Inventory Extension",
+ "type": "typo3-cms-extension",
+ "description": "Inventory",
+ "homepage": "http://www.nummer1.wien",
+ "license": [
+ "GPL-2.0+"
+ ],
+ "version": "0.0.1-dev"
+}
